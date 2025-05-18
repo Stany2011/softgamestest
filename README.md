@@ -9,7 +9,7 @@ A dynamic card deck visualizer that generates 144 cards stacked vertically. The 
 
 Features:
 
-  - 144 cards generated with offset stacking
+  - 144 cards generated with offset stacking (cards are generated in a coroutine with a frame delay to not overhelm with multiple instancing)
 
   - Smooth animated card transfer with flip effect
 
